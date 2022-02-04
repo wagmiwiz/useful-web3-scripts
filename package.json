@@ -1,0 +1,30 @@
+{
+  "name": "web3-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios-retry": "^3.2.4",
+    "dotenv": "^16.0.0",
+    "ethcall": "^4.3.2",
+    "ethers": "5.5.4",
+    "keccak256": "^1.0.6",
+    "lodash": "^4.17.21",
+    "merkletreejs": "^0.2.27"
+  },
+  "engines": {
+    "node": "^16"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.178",
+    "@types/node": "^16.11.6",
+    "prettier": "^2.5.1",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.5"
+  }
+}

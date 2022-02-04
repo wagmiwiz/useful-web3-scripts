@@ -1,0 +1,9 @@
+./node_modules
+node_modules
+data
+output
+.env.*
+.env*
+yarn-error.log
+
+.idea
